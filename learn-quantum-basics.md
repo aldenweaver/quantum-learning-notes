@@ -23,9 +23,9 @@
 ## Quantum Geometry
 + https://en.wikipedia.org/wiki/Quantum_geometry
   + Quantum mechanics is how light-matter-[sound!] acts or below the scale of atoms
-  
+  [Error Noise Type 1]
   + Scales of distance relative to Planck length
-  + 
+  + [Different Error Noise Type 2]
   + Quantify impact of quantum mechanics relative to distance
   + Quantum gravity
-  + 
+  + [Different Error Noise Type 2]
