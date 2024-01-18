@@ -13,6 +13,19 @@ https://en.wikipedia.org/wiki/Quantum_mechanics
   + https://www.scirp.org/html/7-4500182_36512.htm#:~:text=We%2C%20along%20with%20space%20and,simple%20cases%2C%20and%20obtained%20solutions
   + If a star is flat, is it in 1 dimension?
   + Klauza-Klein theory
++ Formulae 
+  + Space is measured in latitude-longitude-altitude
+  + Time is measured in ?-?-?
+  + ? is measured in ?-?-?
+  + Formul.ai: using AI to help figure out formulae we haven't considered
+    + Mathematical-geometic-sound/noise/musical formulae
+    + Tendency towards balance
+    + Balance across multiple dimensions
+    + To help mitigate errors, strive for balance across multiple dimensions
+    + Sliding sclaes since there is always constantly movement 
+    + How constant movement affects constant interactions & thus changes/distracts
+    + Minimize distractions by minimizing parameters & balancing parameters
+    + Balancing leads to less noise & more focus
 
 
 ## Noise & Errors
