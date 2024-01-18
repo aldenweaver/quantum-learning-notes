@@ -14,7 +14,7 @@ https://en.wikipedia.org/wiki/Quantum_mechanics
   + If a star is flat, is it in 1 dimension?
   + Klauza-Klein theory
 + Formulae 
-  + Space is measured in latitude-longitude-altitude
+  + Space is measured in latitude-longitude-altitude?
   + Time is measured in ?-?-?
   + ? is measured in ?-?-?
   + Formul.ai: using AI to help figure out formulae we haven't considered
@@ -85,7 +85,56 @@ A partial example of resource measurement across multiple dimensions, referencin
 + How much space required to hold data & run a computation.
 + Quantum computing requires space-time-?
 
+## Resource Prioritization
+How does an order of operations as it relates to Resource Prioritization affect:
+    + Resource Utilization
+    + Resource Allocation
+    + Error Detection
+    + Error Correction
+    + Error Prediction
+    + Error Mitigation
++ Resources follow an order of priority
++ Time is most important resource? Then light/heat/energy? Then space? Then ? 
+  
++ Quantifiable measurements of different types of resources
+    + Each type of resource might have/require multiple measurements arcoss multiple dimensions in order to quantify them.
 
+## Resource Formulae as Programmatic Equations
+  + Parameters: Multi-dimensional measurements that may be constantly changing
+  + Error detection & handling
+  + Different formulae for different goals
+  + Potential goals:
+    + Resource utilization optimization
+      + i.e., how to use fewer resources or better use current resources -> can apply to planetary & people situations such as climate change, poverty, etc
+    + Resource utilization error remediation
+      + i.e., how to correct once resources have been misued -> can apply to climate change, NASA/space travel, survival/life (how to survive if something goes wrong; how to succeed with different or fewer resources)
+    + Successful resource routines desribed as programmatic functions
+      + How to program functions that achieve the desired results
+      + How to quantify/describe routines that yield desired results
+  
+## Ideas on Programmatic Functions for Quantum Computing as they relate to resources & routines needed for error mitigation using magnetic formulae derived from understanding magnetic tendency properties
+  + Function parameters:
+    + Parameters of function include resources required
+      + Some function parameters are functions themselves since everything is always changing & the behavior of something being measured changes while being measured by being measured (?)
+        + "Schrodinger's original quantum-mechanical solution for hydrogen": https://arxiv.org/abs/2007.14798
+        + TODO: READ "An undulatory theory of the mechanics of atoms and molecules" by E. Schrodiner: https://ee.sharif.edu/~sarvari/25290/1926-Schrodinger.pdf
+            + Abstract: "The paper gives an account of the author's work on a new form of quantum theory. §1. The Hamiltonian analogy between mechanics and optics. §2. The analogy is to be extended to include real "physical" or "undulatory" mechanics instead of mere geometrical mechanics. §3. The significance of wave-length; macro-mechanical and micro-mechanical problems. §4. The wave-equation and its application to the hydrogen atom. §5. The intrinsic reason for the appearance of discrete characteristic frequencies. §6. Other problems; intensity of emitted light. §7. The wave-equation derived from a Hamiltonian variation-principle; generalization to an arbitrary conservative system. §8. The wave-function physically means and determines a continuous distribution of electricity in space, the fluctuations of which determine the radiation by the laws of ordinary electrodynamics. §9. Non-conservative systems. Theory of dispersion and scattering and of the "transitions" between the "stationary states." §10. The question of relativity and the action of a magnetic field. Incompleteness of that part of the theory."
+          + * Magnetism is mentioned but incomplete!!! -> ties back to magnetism measurement for predicting behavioral tendencies & relating that to error prediction & error mitigation.
+          + TODO: READ & UNDERSTAND THIS
+      + Examples of resources required: time, shelter, food & water, plan & actions, mental state, physical state, peace
+      + Function body:
+        + Proper operations/actions/commands & order of those operations
+        + Every operation requires resources (such as computing time, space, (& ?))
+          + Math: PEMDAS
+          + Geomety: ?
+          + Music: scales; balance the scales!
+    + TODO: Learn about measuring & characterizing sound gates for detection of errors or proper operation
+      + Different gates; different categories of gates, with good or bad types of gates (0 or 1)
+        + Sound gates
+        + Time gates?
+        + Space gates?
+      + TODO: "Precision gate characterization in the presence of low-frequency noise on a superconducting processor"
+https://meetings.aps.org/Meeting/MAR23/Session/D72.3
 
 ## Noise & Errors
   + Noise Modeling of the IBM Quantum Experience: 
@@ -171,3 +220,4 @@ Possible applications of measurements across multiple dimensions.
 * It's not just time travel, it's not just traveling in space.
 * Space-time travel
 * space-time-? travel ?
+* "STAXITY, WAKE UP!!!"
