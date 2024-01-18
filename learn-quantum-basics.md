@@ -27,6 +27,13 @@ https://en.wikipedia.org/wiki/Quantum_mechanics
     + Minimize distractions by minimizing parameters & balancing parameters
     + Balancing leads to less noise & more focus
 
++ A measurement of energy is resources
++ Instead of multiplying & adding dimensions, multiple & exponentiate them
++ Energy measurement requiring multiple dimensions across multiple levels
+  + Light/heat or Heat/light
+  + Movement/space
+  + Matter/mass
+  + Speed/time
 
 ## Noise & Errors
   + Noise Modeling of the IBM Quantum Experience: 
