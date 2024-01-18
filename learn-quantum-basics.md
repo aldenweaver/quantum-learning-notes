@@ -163,3 +163,11 @@ https://meetings.aps.org/Meeting/MAR23/Session/D72.5
   
 ## Quantum Information
 + Basics of Quantum Information Course: https://learning.quantum.ibm.com/course/basics-of-quantum-information
+
+
+# Travel
+Possible applications of measurements across multiple dimensions.
+
+* It's not just time travel, it's not just traveling in space.
+* Space-time travel
+* space-time-? travel ?
