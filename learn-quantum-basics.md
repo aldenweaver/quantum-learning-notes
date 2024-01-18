@@ -1,11 +1,19 @@
 # Learn Quantum Basics
 
 ## Quantum Mechanics
-+ https://en.wikipedia.org/wiki/Quantum_mechanics
-+ Quantum mechanics is how light-matter-? acts or below the scale of atoms
-  + "Quantum mechanics is a fundamental theory in physics that describes the behavior of nature at and below the scale of atoms."
-  + Nature (gift)
+https://en.wikipedia.org/wiki/Quantum_mechanics
++ "Quantum mechanics is a fundamental theory in physics that describes the behavior of nature at and below the scale of atoms."
   + Nature = light-matter-[sound!]
+  + Nature (gift)
++ Quantum mechanics is how light-matter-[sound?] acts or below the scale of atoms
++ Quantum dimensionality: quantum dimension created by coordinates of space-time-?
++ TODO: continue to look into measurements in multiple dimensions
+  + Einstein, mass, 5th dimension
+  + Mass as a measurement of matter & light? movement?
+  + https://www.scirp.org/html/7-4500182_36512.htm#:~:text=We%2C%20along%20with%20space%20and,simple%20cases%2C%20and%20obtained%20solutions
+  + If a star is flat, is it in 1 dimension?
+  + Klauza-Klein theory
+
 
 ## Noise & Errors
   + Noise Modeling of the IBM Quantum Experience: 
@@ -40,8 +48,11 @@ https://meetings.aps.org/Meeting/MAR23/Session/D72.5
   + Use quantum geometry since there are 3 coordinates space-time-?
   + "Single-qubit & joint two-qubit measurements" - what about tiple-qubits? or joint triple qubits (2^3 = 8)?
   + Quantum geometry & measurement: 2 measurements in 3 dimensions
-    + 2 measurements, taken in 3 different
+    + 2 measurements, taken in 3 different dimensions
+    + Dimension is a measurement
+    + Diminsional planes are coordinated measurements of space-time-?
   + Ties into Python versioning
+  + Multiplication vs. exponentation
   + Ellipses instead of circles, similar to astronomy
   + Quantum Decoherence: https://en.wikipedia.org/wiki/Quantum_decoherence
     + How quantum mechanics behave differently when scaled too large
