@@ -13,12 +13,11 @@
 + Brad G. (Organizer)
   + Discord: U007D (aka "Curly")
   + *Connection with quantum people
-  + Builds electric cards (always 4 or less motors)
+  + Builds electric cars (always 4 or less motors)
 + Marianne G. (Co-organizer)
   + Discord: nini-raviolette
   + *Help organize pop-up
 + SRUG Discord server: https://discord.gg/UuwHAyWqXA
-+ *Flatstick Pub @RTC after event
 
 ## About Rust
 https://www.rust-lang.org/

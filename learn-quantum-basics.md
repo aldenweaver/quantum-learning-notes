@@ -112,6 +112,10 @@ How does an order of operations as it relates to Resource Prioritization affect:
       + How to program functions that achieve the desired results
       + How to quantify/describe routines that yield desired results
   
+## Temperature as a Measurable Resource
++ Temperature is a resource that can be measured
+
+
 ## Ideas on Programmatic Functions for Quantum Computing as they relate to resources & routines needed for error mitigation using magnetic formulae derived from understanding magnetic tendency properties
   + Function parameters:
     + Parameters of function include resources required
@@ -189,6 +193,9 @@ https://meetings.aps.org/Meeting/MAR23/Session/D72.5
 + https://en.wikipedia.org/wiki/Relativistic_mechanics
 + Relativistic Mechanics involves objects moving at a speed so fast it is relative to the speed of light, represented as a variable `c`.
 
+## Potential Quantum Applications
++ Quantum computing application: Predictive driving
+  + Predicting & measuring choices/decisions
 
 # Quantum Measurements
 
@@ -215,7 +222,9 @@ https://meetings.aps.org/Meeting/MAR23/Session/D72.5
   
 ## Quantum Information
 + Basics of Quantum Information Course: https://learning.quantum.ibm.com/course/basics-of-quantum-information
-
++ Fundamentals of Quantum Algorithms: https://learning.quantum.ibm.com/course/fundamentals-of-quantum-algorithms
+  
+  
 ## Quantum Sensory Measurement & Management
 
 # Travel
