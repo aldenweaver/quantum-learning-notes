@@ -204,6 +204,25 @@ fn main() {
     + Useful & interesting applications across many fields
     + Naming, deletion, & versioning
 
-## Modular Music Composer
+## Modular Music Composer by Doug Stoeckmann
+  + RedACT composer: https://github.com/dousto/redact-composer
+    + redact-composer: https://docs.rs/redact-composer/latest/redact_composer/
+    + redact-composer-musical: https://docs.rs/crate/redact-composer-musical/latest/source/
   + Release-plz: https://release-plz.ieni.dev/
   + Manages releasing Rust crates via Git -> versioning
+  + Modular composition
+  + Documentation
+  + "Update Element link to point to trait instead of macro"
+  + RedACT Composer
+  + Pull request checks & merging
+  + Pull request tells you about the changes that were made
+  + Make sure what was changed was accurate
+  + Different crates have different changes
+  + Compatibility changes
+  + Dependency pointers
+  + Changing dependencies can cause many errors
+    + Changing the implementations of a dependency
+    + Changing the dependencies required for an implementation
+    + Cyclical?
+  + Versioning release chores
+  + If action runs again & sees there are changes since the last time there was a merge pull request, versioning, Git tag, & Git release
