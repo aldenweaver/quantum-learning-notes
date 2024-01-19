@@ -209,10 +209,14 @@ https://meetings.aps.org/Meeting/MAR23/Session/D72.5
   + Quantum gravity
   + [Different Error Noise Type 2]
 
+## Quantum Chemistry
++ Bases & acids
++ Measurements
   
 ## Quantum Information
 + Basics of Quantum Information Course: https://learning.quantum.ibm.com/course/basics-of-quantum-information
 
+## Quantum Sensory Measurement & Management
 
 # Travel
 Possible applications of measurements across multiple dimensions.
