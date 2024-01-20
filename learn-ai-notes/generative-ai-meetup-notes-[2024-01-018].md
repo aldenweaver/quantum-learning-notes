@@ -1,5 +1,5 @@
 # Navigating Generative AI [IBM Technical Talk] Notes
-https://ibm.webex.com/webappng/sites/ibm/meeting/info/bcc266265ac34a0eb5d2b33c691836f9?MTID=m799de1ffbcfb5509292b88e98c2395f8&siteurl=ibm&meetingAuthToken=QUhTSwAAAAaLG7miZC6Z4tnORXEqpD6aFlu37v8x0druaZ5lQrlkBQrcR23XGe8yxLFu23V7FzM8jThdu4AiFcsS3CwbLDc8cZbYOls3B7i5ryagnddPclwWy8UjFCCffeorEm2mJGHg9ac2H%2FKIzQ43CcxHbPUfbCxyG2brbbLh9jrAJATQ39zZVGjiHifCQQnN8f0Tm4gEt7iGpp8VkWzseOih5lCOPrlrql40PMhjDyxhrEgQPQ%3D%3D
+[IBM Meetup on Generative AI 2024-01-018](https://ibm.webex.com/webappng/sites/ibm/meeting/info/bcc266265ac34a0eb5d2b33c691836f9?MTID=m799de1ffbcfb5509292b88e98c2395f8&siteurl=ibm&meetingAuthToken=QUhTSwAAAAaLG7miZC6Z4tnORXEqpD6aFlu37v8x0druaZ5lQrlkBQrcR23XGe8yxLFu23V7FzM8jThdu4AiFcsS3CwbLDc8cZbYOls3B7i5ryagnddPclwWy8UjFCCffeorEm2mJGHg9ac2H%2FKIzQ43CcxHbPUfbCxyG2brbbLh9jrAJATQ39zZVGjiHifCQQnN8f0Tm4gEt7iGpp8VkWzseOih5lCOPrlrql40PMhjDyxhrEgQPQ%3D%3D)
 
 ## Quantum Series every two weeks
 + Quantum Series 1: Jan 31 & Feb 1
@@ -107,7 +107,7 @@ Observing & training something affects its behavior (Schrodinger, quantum observ
   + Neilsen Norman group studies 
     + Study on "Time Spent on Writing Subtasks"
   + Levels of trust of AI inputs & results
-  + "As AI tools improve, authors have to double down on being human" - AI for Authors: Practical & Ethical Guidelines by the Alliance of Independent Authors (https://selfpublishingadvice.org/ai-for-authors-guidelines/)
+  + "As AI tools improve, authors have to double down on being human" - AI for Authors: [Practical & Ethical Guidelines by the Alliance of Independent Authors](https://selfpublishingadvice.org/ai-for-authors-guidelines/)
   + Building applications on top of a certain model subjects you to the training (good or bad) of that model
 
 

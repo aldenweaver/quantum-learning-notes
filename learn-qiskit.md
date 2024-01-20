@@ -1,11 +1,13 @@
 # Learn Qiskit
 
-
+## Python for Qiskit
++ [Programming on Quantum Computers Using Qiskit](https://developer.ibm.com/series/programming-on-quantum-computers/)
+  
 ## Qiskit
 + Qiskit: https://www.ibm.com/quantum/qiskit
-+ Qiskit Docs: https://docs.quantum.ibm.com/
-+ Qiskit `Hello World`: https://docs.quantum.ibm.com/start/hello-world
-
++ [Qiskit Docs](https://docs.quantum.ibm.com/)
++ [Qiskit `Hello World`](https://docs.quantum.ibm.com/start/hello-world
+)
 
 ## Additional Qiskit Resources
 + Past Event: https://developer.ibm.com/events/advanced-quantum-computing-with-qiskit/

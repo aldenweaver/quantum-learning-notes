@@ -1,26 +1,16 @@
-# Rust Meetup Notes [1-18-2024]
+# Rust Meetup 2024-01-018 [Notes]
 
 ## Seattle Rust User Group
-2-24.01 Meeting (January 18, 2024)
+2024.01 Meeting (January 18, 2024)
 
 ## Important Dates
 + Rust meetups: Third Thursdays
-+ * Linux North America OSS conf: 4-16 through 4-18 at Seattle Convention center
++ Linux North America OSS conf: 4-16 through 4-18 at Seattle Convention center
   + Pop-up is a one-off event
 + Brussels conference
 
-## Contacts
-+ Brad G. (Organizer)
-  + Discord: U007D (aka "Curly")
-  + *Connection with quantum people
-  + Builds electric cars (always 4 or less motors)
-+ Marianne G. (Co-organizer)
-  + Discord: nini-raviolette
-  + *Help organize pop-up
-+ SRUG Discord server: https://discord.gg/UuwHAyWqXA
-
 ## About Rust
-https://www.rust-lang.org/
+[Rust Language Website](https://www.rust-lang.org/)
 + Installation via Mac Terminal: `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 + Cargo: the Rust build tool and package manager
 + Rust for crypto & blockchain
@@ -54,9 +44,9 @@ https://www.rust-lang.org/
     + Security issues if you "trust" the data & data structure, which can allow your system to be exploited
     + Beginnings of writing a kernel
   + Linux -> Minix
-  + Minix: https://git.minix3.org/index.cgi
+  + [Minix](https://git.minix3.org/index.cgi)
   + Grabbing something off the shelf can hurt or help you; weigh the trade offs - paraphasing Brad G.
-  + `They have no power to hurt you or to help you so who do you call on?` - paraphrasing
+  + "They have no power to hurt you or to help you so who do you call on?" - paraphrasing
   + Function calls; prebuilt libraries & systems
   + Qubits
 
@@ -74,14 +64,14 @@ https://www.rust-lang.org/
   + Superfast processors, mega- & giga-hertz
   + What is the default clock speed of a Raspberry Pi Pico? 125 MHz
     + Bandwidth limitations & what causes them
-    + Raspberry Pi Pico SDK: https://www.raspberrypi.com/documentation/pico-sdk/
-    + "The Raspberry Pi Pico runs at 125 MHz by default. The clock divider allows us to run each state machine at a frequency between about 2 kHz and 133 MHz (assuming the system clock is 133 MHz)." - https://www.digikey.com/en/maker/projects/raspberry-pi-pico-and-rp2040-micropython-part-3-pio/3079f9f9522743d09bb65997642e0831#:~:text=The%20Raspberry%20Pi%20Pico%20runs,system%20clock%20is%20133%20MHz).
+    + [Raspberry Pi Pico SDK](https://www.raspberrypi.com/documentation/pico-sdk/)
+    + "The Raspberry Pi Pico runs at 125 MHz by default. The clock divider allows us to run each state machine at a frequency between about 2 kHz and 133 MHz (assuming the system clock is 133 MHz)." - [forum link](https://www.digikey.com/en/maker/projects/raspberry-pi-pico-and-rp2040-micropython-part-3-pio/3079f9f9522743d09bb65997642e0831#:~:text=The%20Raspberry%20Pi%20Pico%20runs,system%20clock%20is%20133%20MHz).
     + Audio, mixing & matching
 + 4 zones for sending electricity data over the wires: 
   + Every hole under the plus gives power
   + Minus gives ground
   + Same ground, same power
-  + (4 motors?)
+  + (4 motors?) in cars
   + Rows & columns
   + A-B represent one electrical bar
   + Surgical power in one hole affects others in that row & column
@@ -101,7 +91,7 @@ https://www.rust-lang.org/
   + How to properly leverage resources
   + The word of last season "Oct - Dec 2023" was patterns
   + The word of this season "Jan - March 2024" is resources
-  + "Quantum Computing: A Gentle Introduction": https://s3.amazonaws.com/arena-attachments/1000401/c8d3f8742d163b7ffd6ae3e4e4e07bf3.pdf
+  + ["Quantum Computing: A Gentle Introduction"](https://s3.amazonaws.com/arena-attachments/1000401/c8d3f8742d163b7ffd6ae3e4e4e07bf3.pdf)
     + Can you quantify gentleness? -> Power of Love
     + How to quantify the unquantifiable?
   + Linear Algebra: matrix, matricies
@@ -111,7 +101,7 @@ https://www.rust-lang.org/
   + Computer vision
 
 ## "Object Soup is Made of Indexes" Presentation by Jack O'Connor
-+ https://jacko.io/object_soup.html
+[Object Soup is Made of Indexes Paper](https://jacko.io/object_soup.html)
 + Example: Games, when/where do monsters spawn?
   + Theology
 + Use lists & indexes to make this work
@@ -122,7 +112,7 @@ https://www.rust-lang.org/
 + Relations (i.e., friends) make graphs, pointers
 + Rust playground making error noise? -> quantum error mitigation
 
-From https://jacko.io/object_soup.html:
+From [referenced paper](https://jacko.io/object_soup.html):
 `Part One: Move Semantics
 A naive Rust translation doesn't compile:
 
@@ -166,7 +156,7 @@ fn main() {
 + Mutuable reference (&mut) does not work either
 + In theory, there is no alias once you construct the graph
 + 99% unsolvable?
-+ https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html
++ [Rust Docs on References & Borrowing](https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html)
 + How to mutate something borrowed? Interior mutability
 + Rc: reference counting
 + RefCell
@@ -204,13 +194,13 @@ fn main() {
     + Naming, deletion, & versioning
 
 ## Modular Music Composer by Doug Stoeckmann
-  + RedACT composer: https://github.com/dousto/redact-composer
-    + redact-composer: https://docs.rs/redact-composer/latest/redact_composer/
-    + redact-composer-musical: https://docs.rs/crate/redact-composer-musical/latest/source/
-  + Release-plz: https://release-plz.ieni.dev/
+  + RedACT composer repository URL: https://github.com/dousto/redact-composer
+    + [redact-composer](https://docs.rs/redact-composer/latest/redact_composer/)
+    + [redact-composer-musical](https://docs.rs/crate/redact-composer-musical/latest/source/)
+  + [release-plz](https://release-plz.ieni.dev/)
   + Manages releasing Rust crates via Git -> versioning
   + Modular composition
-  + Documentation
+  + Documentation is crucial
   + "Update Element link to point to trait instead of macro"
   + RedACT Composer
   + Pull request checks & merging
